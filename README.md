@@ -97,9 +97,9 @@ data_engineering_exercise/
 ├── src/
 │   └── pipeline.py
 ├── docs/
-│   ├── 01_Business_Problem_Statement.md
-│   ├── Technical_Implementation_Report.docx
-│   └── diagrams/
+│   ├── Business Problem Statement.docx
+│   ├── Technical Implementation Report.docx
+│   └── Diagram 1.png
 ├── README.md
 └── requirements.txt
 ```
