@@ -219,5 +219,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Project-specific data exclusions
+/data/raw/
+/data/output/
+
 # Streamlit
 .streamlit/secrets.toml
