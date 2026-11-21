@@ -1,5 +1,15 @@
 # E-Commerce Data Engineering & Analytics Platform
 
+## Source Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle.
+
+📂 **Download the dataset:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The raw CSV files are not included in this repository due to their size. To reproduce the project, download the datasets and place them in the `data/raw/` directory.
+
+The marketing-qualified leads and closed-deals datasets may need to be downloaded separately.
+
 **Version 1 — Python / pandas ETL and analytical modelling**
 
 An end-to-end e-commerce data engineering case study that profiles, cleans, validates and integrates heterogeneous marketplace data into a reproducible analytical dataset. The solution uses **Python 3.12, pandas, NumPy and PyArrow**, with Jupyter notebooks for exploration and a Python script for repeatable execution.
